@@ -1,7 +1,4 @@
-import SearchForm from '@components/SearchForm.jsx'
 import BookList from '@components/BookList.jsx'
-import Pagination from '@components/Pagination.jsx'
-import Filter from '@components/Filter.jsx'
 import SortAndFilterPanel from '@components/SortAndFilterPanel.jsx'
 import Header from '@components/Header.jsx'
 import { useState } from 'react'

@@ -1,6 +1,6 @@
 import { useState } from 'react'
 import { MagnifyingGlassIcon } from '@heroicons/react/24/outline/index.js'
-import { redirect, replace, useLocation, useSearchParams, useNavigate } from 'react-router'
+import { replace, useLocation, useSearchParams, useNavigate } from 'react-router'
 
 function SearchForm() {
   const [error, setError] = useState('')
