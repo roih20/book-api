@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import 'tailwindcss';
+
+@theme {
+  --font-primary: 'Roboto', sans-serif;
+  --font-secondary: 'Arial', sans-serif;
+  --color-primary: #111010;
+  --breakpoint-xs: 36rem;
+  --breakpoint-2xs: 30rem;
+  --breakpoint-2md: 54rem;
+  --breakpoint-2xl: 90rem;
+}
