@@ -8,7 +8,7 @@ Live demo: https://books-api-demo.netlify.app/
 
 ## Features
 
-- Pagination to handle large result sets.
+- Pagination for handling large result sets.
 - Search function with filtering by type and sorting by relevance or date.
 - Bookmarking system that saves selected books to local storage.
 
