@@ -2,15 +2,15 @@
 
 ## Overview 
 
-This project was designed using React, tailwind CSS, and the Google Books API.
+This project was built using React and Vite, styled with tailwind CSS, and integrates the Google Books API.
 
 Live demo: https://books-api-demo.netlify.app/
 
 ## Features
 
 - Pagination to handle large result sets.
-- Custom search with filtering by type and sorting by relevance or date.
-- Bookmark button to save books into local storage.
+- Search function with filtering by type and sorting by relevance or date.
+- Bookmarking system that saves books to local storage.
 
 ## Running The Project
 
@@ -21,6 +21,6 @@ Live demo: https://books-api-demo.netlify.app/
 ## Dev Dependencies
 
 - Vite
+- Tailwind CSS
 - Eslint
 - Prettier
-- Tailwind CSS
